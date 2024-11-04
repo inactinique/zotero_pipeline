@@ -1,0 +1,13 @@
+requests==2.31.0
+pyzotero==1.5.5
+PyPDF2==3.0.1
+pandas==2.1.4
+numpy==1.24.3
+gensim==4.3.2
+spacy==3.7.2
+scipy==1.11.4
+pyLDAvis
+nbformat
+
+# Note: spacy language model version
+# en-core-web-sm==3.7.1
